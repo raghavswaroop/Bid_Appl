@@ -1,0 +1,8 @@
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\obj\Debug\BidServiceLib.Properties.Resources.resources
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\obj\Debug\BidServiceLib.csproj.GenerateResource.Cache
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\bin\Debug\BidServiceLib.dll.config
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\bin\Debug\BidServiceLib.dll
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\bin\Debug\BidServiceLib.pdb
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\obj\Debug\BidServiceLib.dll
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\obj\Debug\BidServiceLib.pdb
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceLib\obj\Debug\BidServiceLib.csprojResolveAssemblyReference.cache

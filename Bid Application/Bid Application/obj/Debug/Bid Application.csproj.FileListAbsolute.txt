@@ -1,0 +1,7 @@
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\bin\Bid Application.dll
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\bin\Bid Application.pdb
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\bin\BidServiceLib.dll
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\bin\BidServiceLib.pdb
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\obj\Debug\Bid Application.csprojResolveAssemblyReference.cache
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\obj\Debug\Bid Application.dll
+C:\Users\raghav\documents\visual studio 2010\Projects\Bid Application\Bid Application\obj\Debug\Bid Application.pdb

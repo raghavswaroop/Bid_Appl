@@ -1,0 +1,10 @@
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\obj\x86\Debug\BidServiceHost.Properties.Resources.resources
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\obj\x86\Debug\BidServiceHost.csproj.GenerateResource.Cache
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\bin\Debug\BidServiceHost.exe.config
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\bin\Debug\BidServiceHost.exe
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\bin\Debug\BidServiceHost.pdb
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\bin\Debug\BidServiceLib.dll
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\bin\Debug\BidServiceLib.pdb
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\obj\x86\Debug\BidServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\obj\x86\Debug\BidServiceHost.exe
+C:\Users\raghav\documents\visual studio 2010\Projects\BidServiceLib\BidServiceHost\obj\x86\Debug\BidServiceHost.pdb

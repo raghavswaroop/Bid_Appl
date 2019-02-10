@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product>
+    <ProductID>23</ProductID>
+    <Category>Watches</Category>
+    <ProductName>Rado P1</ProductName>
+    <ProductDescription>Rado Description</ProductDescription>
+    <ProductBidValue>200</ProductBidValue>
+  </Product>
+
+  <Product>
+    <ProductID>33</ProductID>
+    <Category></Category>
+    <ProductName>Rado P1</ProductName>
+    <ProductDescription>Rado Description</ProductDescription>
+    <ProductBidValue>200</ProductBidValue>
+  </Product>
+  
+</Products>
